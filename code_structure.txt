@@ -1,0 +1,15 @@
+school_online/ 
+        is project folder
+core/
+        is app folder which contains all models
+student_app/
+        is app which handles student related queries/urls
+teacher_app/
+        is app which handles teacher related queries/urls
+authority_app/
+        is app which handles authority related queries/urls
+utils/
+        is module which handles base/common queries among teacher/student/authority
+school_application_app/
+        is app which handles application and registration of app
+

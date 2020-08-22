@@ -1,0 +1,2 @@
+remove pywin32
+see https://stackoverflow.com/questions/50026190/heroku-fails-to-install-pywin32-library
